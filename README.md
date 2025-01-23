@@ -54,7 +54,7 @@ Si tienes preguntas o sugerencias sobre este proyecto, no dudes en contactar a:
 - github.com/Pinedah 
 - github.com/Rod0225 
 - github.com/AndreaAcevedo12
-o directamente a @pineda_11 en Ig.
+- o directamente a @pineda_11 en Ig.
 
 ### Aclaración
 © 2025 Pinedah. Este proyecto es de código abierto, y fue realizado como proyecto para la asignatura de Programación para Ciencia de Datos en la Escuela Superior de Cómputo del IPN.
